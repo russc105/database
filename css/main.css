@@ -1,0 +1,44 @@
+#sidebar {
+    position: fixed;
+    height: 800px;
+    width: 150px;
+    background-color: #ffffff;
+    opacity: 0.6;
+}
+
+.row{
+	display: block;
+	float: left;
+	height: 150px;
+	width: 9600px;
+	overflow-y: hidden;
+	overflow-x: auto;
+	margin: 3px;
+	padding-left: 155px;
+}
+
+/*#searchbutton{
+	height: 15px;
+	width: 130px;
+	border: 1px solid black;
+}*/
+
+h1{
+	font-family: Courier;
+	font-size: 20px;
+	color: black;
+}
+
+body{
+	font-family: Courier;
+	font-size: 10px;
+}
+
+p{
+	font-family: Courier;
+	font-size: 12px;
+}
+
+.opacity{
+	opacity: 0.4;
+}
